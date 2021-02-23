@@ -1,0 +1,32 @@
+
+.experienceBar {
+  display: flex;
+  align-items: center;
+}
+
+.experienceBarDiv {
+  font-size: 1rem;
+  flex: 1;
+  height: 4px;
+  border-radius: 4px;
+  background: var(--gray-line);
+  margin: 0 1.5rem;
+  position: relative;
+}
+
+.experienceBarDivLevelStatus {
+  height: 4px;
+  border-radius: 4px;
+  background: var(--green);
+}
+
+.experienceBarDivLevelCurrent {
+  position: absolute;
+  top: 12px;
+
+  transform: translate(-50%);
+}
+
+.experienceBarSpan {
+  font-size: 1rem;
+}
