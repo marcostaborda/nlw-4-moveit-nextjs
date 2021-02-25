@@ -8,11 +8,13 @@ export function ChallengeBox() {
       {hasActiveChallenge ? (
         <div className={styles.challengeActive}>
           <header>Ganhe 400 xp</header>
+
           <main>
             <img src="/icons/body.svg" />
             <strong>Novo Desafio</strong>
             <p>Levante e faça uma caminha de 3 minutos</p>
           </main>
+
           <footer>
             <button type="button" className={styles.challengeFailedButton}>
               Falhei
