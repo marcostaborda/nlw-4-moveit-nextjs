@@ -22,4 +22,9 @@ Projeto NLW4 - RocketSeat. Gameficação com desafios para se mover, após uma c
 - Ao termino de um desafio, é emitido um áudio e uma notificação.
 - Se der um refresh na Aplicação, ele puxa os dados salvos no cookie.
 
+## Como rodar a aplicação: 
+
+- `git clone https://github.com/marcostaborda/nlw-4-moveit-nextjs.git`
+- Rodar o comando bash no root `yarn`
+- Após instalar os pacotes, rodar `yarn dev`
 
