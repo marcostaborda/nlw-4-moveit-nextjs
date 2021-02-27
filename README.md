@@ -1,5 +1,7 @@
 # Move.it
 
+![Print Home Page](public/print-home-page.png?raw=true "Title")
+
 Projeto NLW4 - RocketSeat. Gameficação com desafios para se mover, após uma conclusão de tempo.
 
 ## Tecnologias Envolvidas:
