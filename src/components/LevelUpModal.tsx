@@ -8,6 +8,7 @@ export function LevelUpModal() {
   return (
     <div className={styles.overlay}>
       <div className={styles.container}>
+
         <header>
           {level}
         </header>
